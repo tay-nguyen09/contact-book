@@ -1,0 +1,27 @@
+{
+  "name": "contact-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/texttoolgame/contact-book.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/texttoolgame/contact-book/issues"
+  },
+  "homepage": "https://github.com/texttoolgame/contact-book#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17",
+    "@types/node": "^20.3.1",
+    "typescript": "^5.1.3"
+  }
+}
